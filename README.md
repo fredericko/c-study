@@ -1,0 +1,1 @@
+Study of C by following the book "The C Programming Language" by Brian Kernighan e Dennis Ritchie
